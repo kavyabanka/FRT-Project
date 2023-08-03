@@ -9,7 +9,7 @@ Project Demo Link - YOUTUBE LINK!!!
 
 Azure technologies used for Project
 Static web apps
-Health bot
+Help bot
 Features and Functionalities 😃
 Interactive and responsive UI.
 Has many graphical and visual innovative effects.
