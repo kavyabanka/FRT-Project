@@ -1,4 +1,4 @@
-# ✨ Career Canvas  ✨
+# ✨ Biodata - Personal Category  ✨
 This is a web-based application developed for professional online presence-related based websites in India
 
 ## This web-based application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
