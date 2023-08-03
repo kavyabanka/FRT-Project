@@ -6,39 +6,43 @@ This is a web-based application developed for professional online presence-relat
 
 **Project Demo Link** - YOUTUBE LINK!!!
 
-**Azure technologies used for Project**
-Static web apps<br>
-Help bot
-## Features and Functionalities 😃
--Interactive and responsive UI.
--Has many graphical and visual innovative effects.
--Have an aesthetically pleasing visual design and architecture.
--Has a collection of many web pages including Home, My Intro, Services, Contact, Experience, and Education, etc.
--Skills are displayed in a responsive manner.
-## Screenshots
-### Home
+**Azure technologies used for Project**<br>
+- Static web apps<br>
+- Help bot<br>
+## Features and Functionalities 😃 <br>
+-Interactive and responsive UI.<br>
+-Has many graphical and visual innovative effects.<br>
+-Have an aesthetically pleasing visual design and architecture.<br>
+-Has a collection of many web pages including Home, My Intro, Services, Contact, Experience, and Education, etc.<br>
+-Skills are displayed in a responsive manner.<br>
+## Screenshots <br>
+### Home <br>
+
 <img width="960" alt="homepage" src="https://github.com/kavyabanka/FRT-Project/assets/123447173/07ce6fec-3edb-4441-a728-808f82eb517f">
 
 
-### About Us
+### About Us <br>
+
 <img width="960" alt="aboutus" src="https://github.com/kavyabanka/FRT-Project/assets/123447173/4b4ab37e-c0c4-4f5c-b9d6-f4d0db73d533">
 
 
-### Services
+### Services<br>
 
 <img width="950" alt="services" src="https://github.com/kavyabanka/FRT-Project/assets/123447173/b4bcc449-4c90-440f-9f0e-b485eef42951">
 
-### Contact
+### Contact<br>
+
 <img width="949" alt="contact" src="https://github.com/kavyabanka/FRT-Project/assets/123447173/335e23bf-bc7b-4ea5-b386-22feaec04deb">
 
 
-### Help-bot
+### Help-bot<br>
+
 <img width="959" alt="helpbot" src="https://github.com/kavyabanka/FRT-Project/assets/123447173/34632b7c-a391-4bb8-8fb6-53940164db9a">
 
 
-### Tech Stack 💻
-- Azure(Hosting)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+### Tech Stack 💻 <br>
+- Azure(Hosting)<br>
+- HTML<br>
+- CSS<br>
+- Bootstrap<br>
+- JavaScript<br>
