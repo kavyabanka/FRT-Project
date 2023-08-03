@@ -41,7 +41,7 @@ This is a web-based application developed for professional online presence-relat
 
 
 ### Tech Stack 💻 <br>
-- Azure(Hosting)<br>
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)<br>
 - HTML<br>
 - CSS<br>
 - Bootstrap<br>
