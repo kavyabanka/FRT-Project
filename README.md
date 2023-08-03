@@ -7,9 +7,9 @@ This is a web-based application developed for professional online presence-relat
 **Project Demo Link** - YOUTUBE LINK!!!
 
 **Azure technologies used for Project**
-Static web apps
+Static web apps<br>
 Help bot
-**Features and Functionalities 😃 **
+## Features and Functionalities 😃
 -Interactive and responsive UI.
 -Has many graphical and visual innovative effects.
 -Have an aesthetically pleasing visual design and architecture.
