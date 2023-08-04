@@ -4,7 +4,7 @@ This is a web-based application developed for professional online presence-relat
 ## This web-based application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 **Project Link** - [https://nice-water-0f91e5d10.3.azurestaticapps.net/](https://brave-meadow-08afef500.3.azurestaticapps.net/)
 
-**Project Demo Link** - YOUTUBE LINK!!!
+**Project Demo Link** - [YOUTUBE LINK!!!](https://youtu.be/5nRWI7uiaZw)
 
 **Azure technologies used for Project**<br>
 - Static web apps<br>
